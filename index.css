@@ -1,0 +1,157 @@
+﻿body{
+background-image:url("imagens/fundo.jpg");
+background-repeat:no-repeat;
+
+}
+#geral{
+position:absolute;
+left:25%;
+margin-left:-310px;
+}
+#topo{
+width:1250px;
+height:400px;
+background-image:url("imagens/cabecalho.jpg");
+background-size:100% 100%;
+background-repeat:no-repeat;
+color:blue;
+font-family:"colibn";
+font-size:20pt;
+text-align:center;
+position:absolute;
+top:5px;
+left:5px;
+}
+
+#menu{
+width:1250px;
+height:40px;
+background-color:gray;
+color:white;
+font-family:"colibri";
+font-size:11pt;
+position:absolute;
+top:405px;
+left:0px;
+}
+.but{
+display:block;
+text-decoration:none;
+color:#f2bc00;
+background:#0059a0;
+padding:5px;
+border:1px solid #ccc;
+}
+.but:hover{
+text-decoration:none;
+color:#f2bc00;
+background:red;
+}
+#conteudo{
+width:1010px;
+height:400px;
+background-image:url("imagens/cursos_linguas.jpg");
+background-size:100% 100%;
+background-color:#ffffff;
+color:black;
+font-family:"colibri";
+font-size:14pt;
+position:absolute;
+top:100px;
+left:130px;
+
+}
+#publicidade{
+background-image:url("imagens/botton.jpg");
+background-size:100% 100%;
+background-repeat:no-repeat;
+width:170px;
+height:150px;
+background-color:gray;
+color:black;
+font-family:"arial";
+font-size:14pt;
+position:absolute;
+top:450px;
+left:0px;
+border: 1px solid gray;
+}
+#publicidade1{
+background: no-repeat;
+background-image:url("imagens/cursosgratis.jpg");
+background-size:100% 100%;
+width:280px;
+height:150px;
+background-color:gray;
+color:black;
+font-family:"arial";
+font-size:14pt;
+position:absolute;
+top:0px;
+left:180px;
+border: 1px solid gray; 
+}
+#publicidade2{
+background-image:url("imagens/semlegendas.jpg");
+background-size:100% 100%;
+background-repeat:no-repeat;
+width:320px;
+height:150px;
+background-color:gray;
+color:black;
+font-family:"arial";
+font-size:14pt;
+position:absolute;
+top:0px;
+left:290px;
+border: 1px solid gray; 
+}
+#publicidade3{
+background: no-repeat;
+background-image:url("imagens/quebracabeca.jpg");
+background-size:100% 100%;
+width:210px;
+height:150px;
+background-color:gray;
+color:black;
+font-family:"arial";
+font-size:14pt;
+position:absolute;
+top:0px;
+left:330px;
+border: 1px solid gray;
+}
+
+#rodape{
+background-image:url("imagen/rodape.jpg");
+background-size:100% 100%;
+width:1010px;
+height:140px;
+background-color:#0059a0;
+color:red;
+font-family:"colibri";
+font-size:12pt;
+position:absolute;
+top:170px;
+left:-800px;
+}
+
+ul{
+margin:0;
+padding:0;
+list-style:none;
+width:150px;
+}
+ul li a{
+display:block;
+text-decoration:none;
+color:gray;
+background:white;
+padding:5px;
+border:1px solid #ccc;
+}
+ul li a:hover{
+text-decoration:none;
+color:#f2bc00;
+background:#0059a0;
+}

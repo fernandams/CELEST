@@ -1,0 +1,183 @@
+﻿body{
+background-image:url("imagens/fundo.jpg");
+
+}
+#geral{
+position:absolute;
+left:25%;
+margin-left:-310px;
+}
+#topo{
+width:1250px;
+height:150px;
+background-image:url("imagens/cabecalhoLogin.jpg");
+background-size:100% 100%;
+background-repeat:no-repeat;
+color:blue;
+font-family:"colibn";
+font-size:20pt;
+text-align:center;
+position:absolute;
+top:5px;
+left:5px;
+}
+#menu{
+width:1250px;
+height:40px;
+background-color:gray;
+color:white;
+font-family:"colibri";
+font-size:11pt;
+position:absolute;
+top:155px;
+left:0px;
+}
+.but{
+display:block;
+text-decoration:none;
+color:#f2bc00;
+background:#0059a0;
+padding:5px;
+border:1px solid #ccc;
+}
+.but:hover{
+text-decoration:none;
+color:#f2bc00;
+background:red;
+}
+#conteudo{
+width:1010px;
+height:400px;
+background-size:100% 100%;
+background-color:#ffffff;
+color:black;
+font-family:"colibri";
+font-size:14pt;
+position:absolute;
+top:100px;
+left:130px;
+}
+#publicidade{
+background-image:url("imagens/ingles_espanhol1.jpg");
+background-size:100% 100%;
+width:200px;
+height:129px;
+background-color:gray;
+background-repeat:no-repeat;
+color:black;
+font-family:"arial";
+font-size:14pt;
+position:absolute;
+top:1px;
+left:2px;
+border: 1px solid gray;
+}
+#publicidade1{
+background: no-repeat;
+background-image:url("imagens/ola.jpg");
+background-size:100% 100%;
+width:200px;
+height:129px;
+background-color:gray;
+color:black;
+font-family:"arial";
+font-size:14pt;
+position:absolute;
+top:134px;
+left:0px;
+border: 1px solid gray;
+}
+#publicidade2{
+background: no-repeat;
+background-image:url("imagens/letsgo.jpg");
+background-size:100% 100%;
+width:200px;
+height:129px;
+background-color:gray;
+color:black;
+font-family:"arial";
+font-size:14pt;
+position:absolute;
+top:134px;
+left:0px;
+border: 1px solid gray;
+}
+#publicidade3{
+background-image:url("imagens/celest3.jpg");
+background-size:100% 100%;
+width:200px;
+height:129px;
+background-color:gray;
+background-repeat:no-repeat;
+color:black;
+font-family:"arial";
+font-size:14pt;
+position:absolute;
+top:-270px;
+left:800px;
+border: 1px solid gray;
+}
+#publicidade4{
+background: no-repeat;
+background-image:url("imagens/Duolingo.png");
+background-size:100% 100%;
+width:200px;
+height:129px;
+background-color:gray;
+color:black;
+font-family:"arial";
+font-size:14pt;
+position:absolute;
+top:134px;
+left:0px;
+border: 1px solid gray;
+}
+#publicidade5{
+background: no-repeat;
+background-image:url("imagens/inglesespanhol.jpg");
+background-size:100% 100%;
+width:200px;
+height:129px;
+background-color:gray;
+color:black;
+font-family:"arial";
+font-size:14pt;
+position:absolute;
+top:134px;
+left:0px;
+border: 1px solid gray;
+}
+
+#rodape{
+background-image:url("imagem/rodape.jpg");
+background-size:100% 100%;
+width:1010px;
+height:140px;
+background-color:#0059a0;
+color:red;
+font-family:"colibri";
+font-size:12pt;
+position:absolute;
+top:150px;
+left:-800px;
+}
+
+ul{
+margin:0;
+padding:0;
+list-style:none;
+width:150px;
+}
+ul li a{
+display:block;
+text-decoration:none;
+color:gray;
+background:white;
+padding:5px;
+border:1px solid #ccc;
+}
+ul li a:hover{
+text-decoration:none;
+color:#f2bc00;
+background:#0059a0;
+}
